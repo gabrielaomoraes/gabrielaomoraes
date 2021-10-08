@@ -1,6 +1,6 @@
 ## Gabi -- @gabrielaomoraes 
 
-👋 Hi there, I'm a software developer, currently working at Creditas with Kotlin language. 
+👋 Hi there, I'm a software developer, currently working as Developer Advocate. 
 - 🌱 I’m currently learning AI and Machine Learning with Python!
 
 ### Let's get in touch!
